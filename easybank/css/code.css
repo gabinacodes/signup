@@ -1,0 +1,157 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'public Sans';
+}
+header {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid white;
+    box-shadow: 2px 2px #afafaf;
+    padding: 17px 0px;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    align-items: center;
+}
+
+
+.div-one{
+    display: flex;
+    justify-content: space-around;
+    padding: 0
+}
+.list{
+    margin: 0px 14px;
+}
+button{
+
+    border: 2px solid rgba(255, 255, 255, 0);
+    border-radius: 20px;
+    padding: 8px 11px;
+    background-image: linear-gradient(to right, limegreen , #4aeded)
+    
+}
+.wrap-box{
+    display: flex;
+    justify-content: space-between;
+}
+.phone:first-child{
+    z-index: 1;
+}
+.sub-wrap{
+    
+        padding-top: 7%;
+        padding-right: 32%;
+        padding-left: 6%;
+    
+}
+.wrap3 {
+    display: flex;
+    margin-left: 6%;
+}
+
+.choplife {
+    margin: 2%;
+    border: 2px solid white ;
+    border-radius: 20px;
+    background-color: white;
+}
+.wrap3 {
+    display: flex;
+  
+}
+.article {
+    margin-left: 8%;
+}
+img.confetti {
+    width: 219px;
+    margin: 0%;
+}
+
+.onboarding {
+    margin: 2%;
+    padding: 0 3% 3% 0%;
+}
+.api {
+    margin: 2%;
+    padding: 0 3% 3% 0%;
+}
+.frontend {
+    margin-top: 3%;
+    margin-left: 7%;
+}
+.banking {
+    margin: 2%;
+    padding: 0 3% 3% 0%;
+}
+.budgeting {
+    margin: 2%;
+    padding: 0 3% 3% 0%;
+}
+.phone {
+    margin-top: -9%;
+    overflow: hidden;
+}
+.h1{
+    margin: 15px 6%;
+    font-size: 41px;
+}
+.paragraph{
+    margin: 24px;
+}
+.btn{
+    margin: 24px;
+
+}
+.wrap2 {
+    display: flex;
+    margin-top: 7%;
+    margin-left: 5%;
+}
+.hamburgar{
+    display: ;
+}
+
+.wrapper{
+    height: 100vh;
+    background-image: url(../img/bg-intro-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+    background-position: 561px -211px;
+
+}
+.divv{
+        background-color: #d3d3d326;
+        padding:2%; 
+}
+   .wrap1{
+    margin: 3% 4% 2% 5%;
+    padding: 0 49% 0 0;
+}
+.h2{
+    font-size: 40px;
+}
+   .wrap4{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 13px 0 13px 0px;
+    margin-top: 4%;
+   }
+   .footer{
+       background-color:hsl(233, 89%, 4%);
+       color: white;
+   } .btn4{
+    margin: 4% 10%;
+   }
+   .social{
+       margin-top: 20%;
+   }
+   img.confetti {
+    width: 219px;
+    margin: 0%;
+    border-top-left-radius: 8%;
+    border-top-right-radius: 8%;
+}
+   

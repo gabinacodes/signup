@@ -1,0 +1,85 @@
+@media screen and (max-width:900px){
+    body{
+        width: 100%;
+        line-height: 50px;
+    }
+    p  {
+        line-height: 30px;
+    }
+    .div-one{
+        display:none;
+
+    }
+    
+    .btn1{
+        display: none;
+    }
+    header{
+        justify-content: space-between;
+        padding: 17px 2%;
+    }
+    
+   .wrap-box{
+       flex-direction: column-reverse;
+       align-items: center;
+
+   }
+   .cast{
+       padding-left: 34px;
+   }
+   .sen {
+    background-color: #f9f9f9;
+ }
+   img.confetti {
+    
+    margin: 0%;
+    border-top-left-radius: 8%;
+    border-top-right-radius: 8%;
+    width: 437px;
+ }
+   .wrap3{
+       display: block;
+   }
+   .wrapper {
+    height: 132vh;
+    background-image: url(../img/bg-intro-mobile.svg);
+    background-repeat: no-repeat;
+    background-size: 105% 70%;
+    background-position: 1px -16px;
+ }
+   img.mockups {
+    width: 400px;
+ }
+.h1 {
+    margin: 1px 9%;
+    font-size: 40px;
+    text-align: center;
+    
+}
+.sub-wrap {
+    padding-top: 7%;
+    padding-right: 7%;
+    padding-left: 9%;
+ }
+    .btn-wrap{
+        text-align: center;
+    }
+    .wrap2{
+        display: block;
+        text-align: center;
+    }
+    .wrap1 {
+        margin: 2% 2% 2% 2%;
+        padding: 0 1% 0 0;
+        text-align: center;
+    }
+    .social {
+        margin-top: 0%;
+    }
+    .footer {
+        background-color: hsl(233, 89%, 4%);
+        color: white;
+        text-align: center;
+        margin-top: 20%;
+    }
+}
