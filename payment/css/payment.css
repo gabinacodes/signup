@@ -1,0 +1,74 @@
+body{
+
+    background-color: lightblue;
+}
+.edge{
+    border-radius: 54px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+   
+.order{
+    text-align:center;
+    background-color:white;
+    padding:25px;
+    width: 302px;
+    margin: -6px 1px;
+    border:2px 2px 2px 2px solid white;
+    border-bottom-left-radius:15px;
+    border-bottom-right-radius:15px;
+}
+.img{
+    border:2px 2px 2px 2px solid white;
+    border-top-left-radius: 15px;
+    border-top-right-radius:15px;
+   width:350px; 
+   padding:2px;
+
+}
+.mimi{
+    background-color:white;
+    border:2px 2px 2px 2px solid white;
+    border-bottom-left-radius:15px;
+    border-bottom-right-radius:15px;
+}
+.annual{
+    display:flex;
+    justify-content:space-evenly;
+    border:1px;
+    border-radius:12px;
+    margin:30px 10px;
+    padding:10px 10px;
+    background-color: lightgray;
+
+}
+.a{
+    font-size: 12px;
+    margin:30px 10px;
+    
+}
+.proceed{
+    margin: 5px;
+   background-color:blue;
+   border:1px;
+   border-radius:8px;
+   padding:20px 60px;
+
+}
+.cancel{
+    margin: 5px;
+    background-color:lightgrey;
+    border:1px;
+    border-radius:8px;
+    padding:20px 60px; 
+    color:gray 
+}
+.i{
+    height:60px;
+    width:60px;
+}
+.year{
+    font: size 10px;
+}
